@@ -5,10 +5,12 @@ This page is currently a work in progress, so check back once in a while for new
 
 <img src="images/WizSticker.png" width="100"> 
 
-Below you can find links to all of my various platforms, as well as files that I think people could use for their projects!
+
 
 
 ## Platform links and descriptions! 
+Below you can find links to all of my various platforms, as well as files that I think people could use for their projects!
+
 **(Cntrl-click the links to open them in new windows!)**
 
 ### RedBubble
