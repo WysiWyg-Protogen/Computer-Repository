@@ -1,4 +1,4 @@
-## Welcome to my Page! (WIP)
+## Welcome to my Page!
 
 <img src="images/WizSticker.png" width="100"> 
 
