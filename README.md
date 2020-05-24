@@ -8,11 +8,12 @@ This page is currently a work in progress, so check back once in a while for new
 Below you can find links to all of my various platforms, as well as files that I think people could use for their projects!
 
 
-## Platform links and descriptions!
+## Platform links and descriptions! 
 **(Cntrl-click the links to open them in new windows!)**
 
-<a href="https://www.redbubble.com/people/wysiwygprotogen/shop?artistUserName=wysiwygprotogen&asc=u&iaCode=all-departments&sortOrder=top%20selling" target="_blank">RedBubble!</a>
-This is my Redbubble store! I take old, forgotten tshirts, photos from manuals and magazines, or really any 70s and 80s technology graphic and turn them into designs for Mugs, Tshirts, Hoodies, and more! All printings are high quality, and the materials on the items I have ordered have been rather nice considering the price!
+### RedBubble
+This is my <a href="https://www.redbubble.com/people/wysiwygprotogen/shop?artistUserName=wysiwygprotogen&asc=u&iaCode=all-departments&sortOrder=top%20selling" target="_blank">RedBubble!</a>
+store! I take old, forgotten tshirts, photos from manuals and magazines, or really any 70s and 80s technology graphic and turn them into designs for Mugs, Tshirts, Hoodies, and more! All printings are high quality, and the materials on the items I have ordered have been rather nice considering the price!
 
 <img src="images/Redbubble.png" width="1000">
 
