@@ -5,8 +5,14 @@ This page is currently a work in progress, so check back once in a while for new
 
 <img src="images/WizSticker.png" width="100"> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Below you can find links to all of my various platforms, as well as files that I think people could use for their projects!
 
+
+## Platform links and descriptions!
+**BOLD** (Cntrl-click the links to open them in new windows!)
+
+<a href="https://www.redbubble.com/people/wysiwygprotogen/shop?artistUserName=wysiwygprotogen&asc=u&iaCode=all-departments&sortOrder=top%20selling" target="_blank">RedBubble!</a>
+This is my Redbubble store! I take old, forgotten tshirts, photos from manuals and magazines, or really any 70s and 80s technology graphic and turn them into designs for Mugs, Tshirts, Hoodies, and more! All printings are high quality, and the materials on the items I have ordered have been rather nice considering the price!
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
