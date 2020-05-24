@@ -14,39 +14,27 @@ Below you can find links to all of my various platforms, as well as files that I
 **(Cntrl-click the links to open them in new windows!)**
 
 ### RedBubble
-This is my <a href="https://www.redbubble.com/people/wysiwygprotogen/shop?artistUserName=wysiwygprotogen&asc=u&iaCode=all-departments&sortOrder=top%20selling" target="_blank">RedBubble!</a>
-store! I take old, forgotten tshirts, photos from manuals and magazines, or really any 70s and 80s technology graphic and turn them into designs for Mugs, Tshirts, Hoodies, and more! All printings are high quality, and the materials on the items I have ordered have been rather nice considering the price!
+This is my <a href="https://www.redbubble.com/people/wysiwygprotogen/shop?artistUserName=wysiwygprotogen&asc=u&iaCode=all-departments&sortOrder=top%20selling" target="_blank">RedBubble</a>
+store! I take old, forgotten tshirts, photos from manuals and magazines, or really any 70s and 80s technology graphic and turn them into designs for Mugs, Tshirts, Hoodies, and more! All printings are high quality, and the materials on the items I have ordered have been rather nice considering the price! I also get a small portion of any item you buy, so by buying my designs, you are also directly supporting me!
 
 <img src="images/Redbubble.png" width="1000">
 
-### Markdown
+### YouTube
+This is my <a href="https://www.youtube.com/channel/UCVlo9nuFCdlj9L05eTkNH1A?" target="_blank">Youtube</a> 
+page called "WysiWyg's Computer Repository", or WCR for short. I do overviews, repairs, and maybe even some longer length documentaries on computer hardware, as well as some smaller projects like music edits, car overviews, and whatnot. I strive for 1 video a month at the moment, so check back now and again to see if I've made some more interesting and unique content in video form!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Thingiverse
 
-```markdown
-Syntax highlighted code block
+This is my <a href="https://www.thingiverse.com/WizzyProtogen/about" target="_blank">Thingiverse</a> page! Any time that I 3d model and print a part for a computer, I will be sure to upload it to this page so that it can be downloaded and printed by anyone who may need the same part! 
 
-# Header 1
-## Header 2
-### Header 3
+### Twitter
 
-- Bulleted
-- List
+My <a href="https://twitter.com/WysWyg_Protogen" target="_blank">Twitter</a> is **BY FAR** the place where I am the most active online. I make daily posts about projects I am working on, issues I might be having with said projects, as well as general behind-the-scenes looks at what I do on a daily basis to bring all of you the highest quality content possible across these various platforms.  
 
-1. Numbered
-2. List
+### Discord
 
-**Bold** and _Italic_ and `Code` text
+My Discord server is far more of a personal view of me and what I do, as well as some less professional things like memes and whatnot. It is also the best place to have conversations with not only me, but also all of the lovely people who have joined it. <a href="https://discord.com/invite/Qvkczb2" target="_blank">HERE</a> is the link to join the server!
 
-[Link](url) and ![Image](src)
-```
+### Ko-Fi
+Both my Redbubble page and my <a href="https://ko-fi.com/wysiwygprotogen" target="_blank">Ko-Fi</a> page are *AWESOME* ways to support me monetarily! If you appreciate the work that I do, consider maybe throwing a couple dollars my way! NOTE that it is absolutely **not** expected of ANYONE to support me monetarily.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WysiWyg-Protogen/Computer-Repository/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
