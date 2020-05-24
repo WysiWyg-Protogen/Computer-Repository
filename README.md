@@ -13,7 +13,8 @@ Below you can find links to all of my various platforms, as well as files that I
 
 <a href="https://www.redbubble.com/people/wysiwygprotogen/shop?artistUserName=wysiwygprotogen&asc=u&iaCode=all-departments&sortOrder=top%20selling" target="_blank">RedBubble!</a>
 This is my Redbubble store! I take old, forgotten tshirts, photos from manuals and magazines, or really any 70s and 80s technology graphic and turn them into designs for Mugs, Tshirts, Hoodies, and more! All printings are high quality, and the materials on the items I have ordered have been rather nice considering the price!
-<img src="images/redbubble1.png" width="100"> <img src="images/redbubble2.png" width="100"><img src="images/redbubble3.png" width="100">
+
+<img src="images/Redbubble1.PNG" height="200"> <img src="images/Redbubble2.PNG" height="200"><img src="images/Redbubble3.PNG" height="200">
 
 ### Markdown
 
