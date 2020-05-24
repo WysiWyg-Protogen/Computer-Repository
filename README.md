@@ -2,7 +2,8 @@
 
 Heyo! My name is WysiWyg, and this is my official website to host all of my social media links, community files, wanted items, and more!
 This page is currently a work in progress, so check back once in a while for new information!
-![](images/WizSticker.png)
+
+<img src="images/WizSticker.png" width="100"> 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
