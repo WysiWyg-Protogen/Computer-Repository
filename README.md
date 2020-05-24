@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my Page!
 
-You can use the [editor on GitHub](https://github.com/WysiWyg-Protogen/Computer-Repository/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Heyo! My name is WysiWyg, and this is my official website to host all of my social media links, community files, wanted items, and more! 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
