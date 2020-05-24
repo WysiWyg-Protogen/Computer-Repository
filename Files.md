@@ -5,4 +5,4 @@ Here are a few file archives that I use from time to time! This is most CERTAILY
 The files are grouped alphabetically into 6 DVDs, so just download and extract them into a folder and copy them on over!
 
 
-Click [here](readme.md) to return to the homepage
+Click [here](README.md) to return to the homepage
