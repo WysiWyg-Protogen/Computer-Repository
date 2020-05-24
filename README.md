@@ -14,7 +14,7 @@ aficionados like myself!
 
 ### RedBubble
 This is my <a href="https://www.redbubble.com/people/wysiwygprotogen/shop?artistUserName=wysiwygprotogen&asc=u&iaCode=all-departments&sortOrder=top%20selling" target="_blank">RedBubble</a>
-store! I take old, forgotten tshirts, photos from manuals and magazines, or really any 70s and 80s technology graphic and turn them into designs for Mugs, Tshirts, Hoodies, and more! All printings are high quality, and the materials on the items I have ordered have been rather nice considering the price! I also get a small portion of any item you buy, so by buying my designs, you are also directly supporting me!
+store! I take old, forgotten tshirts, photos from manuals and magazines, or really any 70s and 80s technology graphic and turn them into designs for Mugs, Tshirts, Hoodies, and more! All printings are high quality, and the materials on the items I have ordered have been rather nice considering the price! I also get a small portion of the proceeds from any item you buy, so by buying my designs, you are also directly supporting me!
 
 <img src="images/Redbubble.png" width="1000">
 
