@@ -3,7 +3,7 @@
 <img src="images/WizSticker.png" width="100"> 
 
 Heyo! My name is WysiWyg, and this is my official website to host all of my social media links, community files, wanted items, and more!
-This page is currently a work in progress, so check back once in a while for new information!
+Check back once in a while for new information!
 ## File Archive
 Click [HERE](Files.md) to go to the file archive page, where I have some files that might be helpful to vintage computer 
 aficionados like myself!
