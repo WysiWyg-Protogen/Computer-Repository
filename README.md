@@ -1,11 +1,9 @@
 ## Welcome to my Page! (WIP)
 
-Heyo! My name is WysiWyg, and this is my official website to host all of my social media links, community files, wanted items, and more!
-This page is currently a work in progress, so check back once in a while for new information!
-
 <img src="images/WizSticker.png" width="100"> 
 
-
+Heyo! My name is WysiWyg, and this is my official website to host all of my social media links, community files, wanted items, and more!
+This page is currently a work in progress, so check back once in a while for new information!
 
 
 ## Platform links and descriptions! 
