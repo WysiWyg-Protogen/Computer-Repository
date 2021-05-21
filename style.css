@@ -1,0 +1,68 @@
+
+/*Colors and whatnot
+		Background = #445A77
+		Text = 
+		
+
+*/
+
+body { font-size:1.2em; background-color:#304054; 
+	font-family:Segoe UI Semibold; line-height:1.6; color:#C6C5C7;}
+#banner {  display: block; margin-left: auto; margin-right: auto; width: 90%; }
+
+.Wrapper { width:100%; margin:0 auto; max-width:1200px;
+	background-color:#445A77; padding:0 2%; }
+
+
+/*Nav Bar Stuff*/
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  width: 88%;
+  bottom: 0;
+}
+/*Controls for the position of items in the nav bar */
+li {
+ display:inline-table;margin: 0 auto
+}
+
+/*Nav item format*/
+li a {
+  display: block; 
+  color: white;
+  text-align: center;
+  padding: 11px 23px;
+  text-decoration: none;
+}
+
+/*Make the color change when you hover over it*/
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+/*Make the color change again for the current active item*/
+.active {
+  background-color: #4CAF50;
+}
+
+
+
+
+
+
+
+/*Media Reponsive Design Nonsense*/
+@media print {
+	header, nav, footer { display:none; }
+	#main { width:100%; }
+}
+
+@media only screen and (max-width:970px) {
+		nav { float:none; width:100%; }
+		#main { float:none; width:100%;
