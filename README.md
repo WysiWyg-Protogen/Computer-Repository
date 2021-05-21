@@ -2,11 +2,11 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Welcome to my Page!</title>
+    ## Welcome to my Page! 
     <link href="style.css" rel="stylesheet">
   </head>
 
-## Welcome to my Page! 
+
 
 <img src="images/WizSticker.png" width="100"> 
 
