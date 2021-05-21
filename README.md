@@ -1,3 +1,11 @@
+<!doctype HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Welcome to my Page!</title>
+    <link href="style.css" rel="stylesheet">
+  </head>
+
 ## Welcome to my Page!
 
 <img src="images/WizSticker.png" width="100"> 
@@ -10,7 +18,7 @@ aficionados like myself!
 
 
   
-## Platform links and descriptions! BUTTHOLE
+## Platform links and descriptions!
 
 **(Cntrl-click the links to open them in new windows!)**
 
