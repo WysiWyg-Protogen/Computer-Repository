@@ -10,7 +10,7 @@ Check back once in a while for new information!
 Click [HERE](Files.md) to go to the file archive page, where I have some files that might be helpful to vintage computer 
 aficionados like myself!
 
-<body style="background-color:DimGray;">
+<body style="background-color:Tomato;">
   
 ## Platform links and descriptions! 
 
