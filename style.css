@@ -1,0 +1,62 @@
+
+/*Colors and whatnot
+		Background = #445A77
+		Text = 
+		
+
+*/
+
+body { font-size:1.2em; background-color:#304054; 
+	font-family:Segoe UI Semibold; line-height:1.6; color:#C6C5C7;}
+#banner {  display: block; margin-left: auto; margin-right: auto; width: 90%; }
+
+.Wrapper { width:100%; margin:0 auto; max-width:1200px;
+	background-color:#445A77; padding:0 2%; }
+.HeadText {left-margin:50px; width:90%;}
+
+/*Nav Bar Stuff*/
+
+ul {
+  list-style-type: none;
+  margin-left: 60px;
+  margin-right: 20px;
+  padding: 4px;
+  width: 20%;
+  background-color: #1F2935;
+  float:left;
+}
+
+li a {
+  display: block;
+  color: White;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+li a.active {
+  background-color: #98A8BC;
+  color: white;
+}
+
+li a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+
+
+
+
+.Foot { clear:both; }			
+section { background-color:#6c6c6c; color:#ffffff; font-style:bold; }
+section h3, section p {text-align:center; }
+section h4 {font-size:1.9em; color:#ffffff; text-align:center; }
+
+/*Media Reponsive Design Nonsense*/
+@media print {
+	header, nav, footer { display:none; }
+	#main { width:100%; }
+}
+
+@media only screen and (max-width:970px) {
+		nav { float:none; width:100%; }
+		#main { float:none; width:100%;
