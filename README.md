@@ -1,5 +1,6 @@
 <html>
-## Welcome to my Page!
+
+  ## Welcome to my Page!
 
 <img src="images/WizSticker.png" width="100"> 
 
@@ -9,7 +10,7 @@ Check back once in a while for new information!
 Click [HERE](Files.md) to go to the file archive page, where I have some files that might be helpful to vintage computer 
 aficionados like myself!
 
-<body style="background-color:#868686;">
+<body style="background-color:DimGray;">
   
 ## Platform links and descriptions! 
 
