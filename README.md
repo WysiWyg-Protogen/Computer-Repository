@@ -1,6 +1,4 @@
-
-
-  ## Welcome to my Page!
+## Welcome to my Page!
 
 <img src="images/WizSticker.png" width="100"> 
 
@@ -10,7 +8,7 @@ Check back once in a while for new information!
 Click [HERE](Files.md) to go to the file archive page, where I have some files that might be helpful to vintage computer 
 aficionados like myself!
 
-<body style="background-color:Blue;">
+
   
 ## Platform links and descriptions! BUTTHOLE
 
@@ -40,5 +38,5 @@ My Discord server is far more of a personal view of me and what I do, as well as
 
 ### Ko-Fi
 Both my Redbubble page and my <a href="https://ko-fi.com/wysiwygprotogen" target="_blank">Ko-Fi</a> page are *AWESOME* ways to support me monetarily! If you appreciate the work that I do, consider maybe throwing a couple dollars my way! NOTE that it is absolutely **not** expected of ANYONE to support me monetarily.
-</body>
+
 
