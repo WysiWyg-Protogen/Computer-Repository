@@ -1,2 +1,24 @@
-body { font-size:1.2em; background-color:#EBC825; 
-	font-family:unispace; line-height:1.6; }
+
+/*Colors and whatnot
+		Background = #445A77
+		Text = 
+		
+
+*/
+
+body { font-size:1.2em; background-color:#445A77; 
+	font-family:Arial; line-height:1.6; color:#C6C5C7 }
+#banner { width:80%; padding:0 120px; }
+
+
+
+
+/*Media Reponsive Design Nonsense*/
+@media print {
+	header, nav, footer { display:none; }
+	#main { width:100%; }
+}
+
+@media only screen and (max-width:970px) {
+		nav { float:none; width:100%; }
+		#main { float:none; width:100%;
