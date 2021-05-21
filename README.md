@@ -4,7 +4,8 @@
     <meta charset="utf-8">
     <link href="style.css" rel="stylesheet">
   </head>
-## Welcome to my page!
+
+  ## Welcome to my page!
 
 
 <img src="images/WizSticker.png" width="100"> 
@@ -17,7 +18,7 @@ aficionados like myself!
 
 
   
-## Platform links and descriptions! aaaaaaaaaa
+## Platform links and descriptions!
 
 **(Cntrl-click the links to open them in new windows!)**
 
