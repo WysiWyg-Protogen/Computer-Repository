@@ -6,7 +6,7 @@
     <link href="style.css" rel="stylesheet">
   </head>
 
-## Welcome to my Page!
+## Welcome to my Page! 
 
 <img src="images/WizSticker.png" width="100"> 
 
