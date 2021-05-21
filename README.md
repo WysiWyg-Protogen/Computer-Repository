@@ -1,4 +1,4 @@
-<html>
+
 
   ## Welcome to my Page!
 
@@ -41,4 +41,4 @@ My Discord server is far more of a personal view of me and what I do, as well as
 ### Ko-Fi
 Both my Redbubble page and my <a href="https://ko-fi.com/wysiwygprotogen" target="_blank">Ko-Fi</a> page are *AWESOME* ways to support me monetarily! If you appreciate the work that I do, consider maybe throwing a couple dollars my way! NOTE that it is absolutely **not** expected of ANYONE to support me monetarily.
 </body>
-</html>
+
