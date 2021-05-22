@@ -21,8 +21,8 @@ body { font-size:1.2em; background-color:#304054;
 /*text*/
 .Wrapper { width:100%; margin:0 auto; max-width:1200px;
 	background-color:#445A77; padding:0 2%; }
-.HeadText {left-margin: 60px; right-margin: auto; width: 90%;}
-.text {text-align: center; left-margin: 60px;}
+.HeadText {margin-left: 60px; margin-right: auto; width: 90%;}
+.text {text-align: center; margin-left: 60px; margin-right: 60px;}
 .redtext {margin-left: 200px; width: 75%;}
 .youtext {margin-left: 200px; width: 75%;}
 .thingtext {margin-left: 200px; width: 75%;}
